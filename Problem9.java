@@ -2,7 +2,7 @@ class Problem9
 {
 	public static void main(String args[])
 	{
-		char ch='9';
+		char ch='I';
 		if((ch>='a' && ch<='z') || (ch>='A' && ch<='Z'))
 		{
 			if(ch>='a' && ch<='z')
